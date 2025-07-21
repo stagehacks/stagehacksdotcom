@@ -5,3 +5,6 @@ relative_links:
   collections: true
 include:
   - INDEX.md
+title: Stage Hacks
+description: Tools for making performances work better.
+theme: jekyll-theme-slate
