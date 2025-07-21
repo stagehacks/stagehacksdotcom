@@ -2,7 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
 header{
   background-color: #FAE94E;
   font: black;
