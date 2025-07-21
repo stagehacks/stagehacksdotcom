@@ -3,11 +3,11 @@
 
 @import "{{ site.theme }}";
 #header_wrap{
-  background-color: #FAE94E !important;
+  background: #FAE94E !important;
   font: black;
 }
-header{
-  padding: 10px;
+#header_wrap .inner{
+  padding: 10px !important;
 }
 h1, h2, h3{
   font-family: "Lilita One", sans-serif;
