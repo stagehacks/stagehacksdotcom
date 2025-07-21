@@ -80,13 +80,13 @@
 - [Exploring the Network](https://blog.etcconnect.com/2017/08/exploring-the-network-osc-part-i/) Bitmoji-filled deep dive into OSC standard design and implementation from ETC. [Part 1](https://blog.etcconnect.com/2017/08/exploring-the-network-osc-part-i/) & [Part 2](https://blog.etcconnect.com/2019/02/exploring-the-network-osc-part-ii/)
 
 # QLab Tools
-- [panLab](https://innovateaudio.co.uk/)panLab is a multi-point audio panner, designed to work exclusively with QLab. By [Daniel Higgott](http://www.danielhiggott.com/).
-- [Cue View](https://github.com/stagehacks/Cue-View)Open source tool for remote monitoring of ETC Eos Family, QLab, Watchout, PJLink, X32/XAir, Art-Net, and sACN.
-- [Cue Wizard](http://www.garethfry.co.uk/cue-wizard)Label and mark QLab cues in bulk, perfect for cleaning up messy workspaces. By [Gareth Fry](http://www.garethfry.co.uk/)
-- [qlab-scripts](https://github.com/samschloegel/qlab-scripts)A ton of useful scripts to make QLab (and other equipment) perform special tricks. By [Sam Schloegel](https://schloegel.nyc/)
-- [macroLab](http://www.danielhiggott.com/macroLab/)Macro assistant for QLab, triggered with GUI or a [Elgato Streamdeck](https://www.elgato.com/en/gaming/stream-deck). By [Daniel Higgott](http://www.danielhiggott.com/). **$3**
-- [QPJLink](https://github.com/Hantoo/QPJLink)PJLink “plugin” for QLab by [Joel L B](https://joellutherbraun.com/).
-- [QSpotify](https://github.com/sparks-alec/QSpotify)Spotify “plugin” for QLab by [Alec Sparks](https://www.alecsparks.com/)
+- [panLab](https://innovateaudio.co.uk/) panLab is a multi-point audio panner, designed to work exclusively with QLab. By [Daniel Higgott](http://www.danielhiggott.com/).
+- [Cue View](https://github.com/stagehacks/Cue-View) Open source tool for remote monitoring of ETC Eos Family, QLab, Watchout, PJLink, X32/XAir, Art-Net, and sACN.
+- [Cue Wizard](http://www.garethfry.co.uk/cue-wizard) Label and mark QLab cues in bulk, perfect for cleaning up messy workspaces. By [Gareth Fry](http://www.garethfry.co.uk/)
+- [qlab-scripts](https://github.com/samschloegel/qlab-scripts) A ton of useful scripts to make QLab (and other equipment) perform special tricks. By [Sam Schloegel](https://schloegel.nyc/)
+- [macroLab](http://www.danielhiggott.com/macroLab/) Macro assistant for QLab, triggered with GUI or a [Elgato Streamdeck](https://www.elgato.com/en/gaming/stream-deck). By [Daniel Higgott](http://www.danielhiggott.com/). **$3**
+- [QPJLink](https://github.com/Hantoo/QPJLink) PJLink “plugin” for QLab by [Joel L B](https://joellutherbraun.com/).
+- [QSpotify](https://github.com/sparks-alec/QSpotify) Spotify “plugin” for QLab by [Alec Sparks](https://www.alecsparks.com/)
 
 # IRL
 - [DeckRack](https://deckrack.net/) Professional metal mounting hardware for Stream Decks. Up your [Companion](https://bitfocus.io/companion) game.
