@@ -56,16 +56,16 @@
 - [Vingester](https://vingester.app/) Open Source app for capturing websites (video players, websites, games) into NDI streams. Control pixel dimensions, frame rate, audio channels, and more.
 
 # Sound
-- [TheatreMix](https://theatremix.com/)Manage DCA assignments and mutes for up to 48 channels separately from console scenes, for DCA-style theater mixing. Also monitors meters for dropouts and clipping.
-- [Open Sound Meter](https://opensoundmeter.com/)Free sound measurement application for tuning audio systems in real-time. Includes advanced features like coherence and group delays. No subscription. By Pavel Smokotnin
-- [ProdCom](https://prodcom.io/)Transcribes audio inputs into a chat interface. Turn intercom chatter into text or see what you missed on a talkback channel.
-- [AES67 Stream Monitor](https://aes67.app/)Tool for monitoring AES67 (Dante, Livewire, Q-Lan, REVENNA) audio sources. Streams are found automatically or can be added manually.
-- [Patrick-Gilles Maillot’s X32 Tools](https://sites.google.com/site/patrickmaillot/x32)Tons of research and hacking on the X32 console, including the incredible [Unofficial X32/M32 OSC Remote Protocol](https://drive.google.com/file/d/1Snbwx3m6us6L1qeP1_pD6s8hbJpIpD0a/view?usp=sharing) document and many single-purpose utilities.
-- [OSC\_VoIP](https://github.com/oliverh57/OSC_VoIP)Trigger calls and hangups on a VoIP phone via OSC.
-- [Remotely Possible](https://remotely-possible.ca/)Control a Yamaha CL or QL console from another CL or QL, even over the Internet. Monthly or Annual subscriptions.
+- [TheatreMix](https://theatremix.com/) Manage DCA assignments and mutes for up to 48 channels separately from console scenes, for DCA-style theater mixing. Also monitors meters for dropouts and clipping.
+- [Open Sound Meter](https://opensoundmeter.com/) Free sound measurement application for tuning audio systems in real-time. Includes advanced features like coherence and group delays. No subscription. By Pavel Smokotnin
+- [ProdCom](https://prodcom.io/) Transcribes audio inputs into a chat interface. Turn intercom chatter into text or see what you missed on a talkback channel.
+- [AES67 Stream Monitor](https://aes67.app/) Tool for monitoring AES67 (Dante, Livewire, Q-Lan, REVENNA) audio sources. Streams are found automatically or can be added manually.
+- [Patrick-Gilles Maillot’s X32 Tools](https://sites.google.com/site/patrickmaillot/x32) Tons of research and hacking on the X32 console, including the incredible [Unofficial X32/M32 OSC Remote Protocol](https://drive.google.com/file/d/1Snbwx3m6us6L1qeP1_pD6s8hbJpIpD0a/view?usp=sharing) document and many single-purpose utilities.
+- [OSC\_VoIP](https://github.com/oliverh57/OSC_VoIP) Trigger calls and hangups on a VoIP phone via OSC.
+- [Remotely Possible](https://remotely-possible.ca/) Control a Yamaha CL or QL console from another CL or QL, even over the Internet. Monthly or Annual subscriptions.
 
-  # Lights
-  - [Q Light Controller+](https://www.qlcplus.org/) The venerable swiss army knife of lighting control apps.
+# Lights
+- [Q Light Controller+](https://www.qlcplus.org/) The venerable swiss army knife of lighting control apps.
 - [sACNView](https://sacnview.org/) Advanced tool for monitoring sACN data on the network, plus troubleshooting, logging, and output tools.
 - [luminosus](https://www.luminosus.org/) Powerful MIDI and OSC controller for Eos, programmed by connecting virtual nodes.
 - [LightFinger](https://apps.apple.com/us/app/lightfinger/id1568459015) iPad app to control moving lights as followspots using the touchscreen. By [Colin Grenfell](https://lovely.lighting/) **In-App Purchase**
