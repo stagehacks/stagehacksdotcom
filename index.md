@@ -104,3 +104,6 @@
 - [r.Cup](https://rcup.com/) Reusable plastic cup vendor for live events, to reduce single-use plastics. Here’s some [additional literature](https://static1.squarespace.com/static/5f218f677f1fdb38f06cebcb/t/610aaa9a1f89ff0d02ef7d7d/1628089003873/Cup+LCA+Report_Final.pdf).
 - [Luxeon Star LEDs](https://www.luxeonstar.com/) Cheap, customizable PCBs with the same LEDs that lighting manufacturers use. Integrate pro-grade color mixing into your own circuits.
 - [Snap-On Rack Panels](https://snaponrackpanels.com/) Lightweight fabric “blanking panels” for tidying up racks and improving ventilation.
+
+
+Stage Hacks is a list of useful tools that are recommended by folks in the community. Found a new tool that you love? [Email the webmaster](info@stagehacks.com) or [Make a PR](https://github.com/stagehacks/stagehacks.github.io)
