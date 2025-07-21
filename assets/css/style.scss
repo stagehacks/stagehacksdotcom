@@ -3,10 +3,10 @@
 
 @import "{{ site.theme }}";
 #header_wrap{
-  background-color: #FAE94E;
+  background-color: #FAE94E !important;
   font: black;
 }
-#header{
+header{
   padding: 10px;
 }
 h1, h2, h3{
@@ -16,4 +16,5 @@ h1, h2, h3{
 }
 #project_title, #project_tagline{
   text-shadow: none;
+  color: black;
 }
