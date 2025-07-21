@@ -105,5 +105,6 @@
 - [Luxeon Star LEDs](https://www.luxeonstar.com/) Cheap, customizable PCBs with the same LEDs that lighting manufacturers use. Integrate pro-grade color mixing into your own circuits.
 - [Snap-On Rack Panels](https://snaponrackpanels.com/) Lightweight fabric “blanking panels” for tidying up racks and improving ventilation.
 
+---
 
 Stage Hacks is a list of useful tools that are recommended by folks in the community. Found a new tool that you love? [Email the webmaster](info@stagehacks.com) or [Make a PR](https://github.com/stagehacks/stagehacks.github.io)
