@@ -41,19 +41,19 @@
 # Video
 - [ProjectorManager](http://www.sigmasix.ch/projectormanager/) Mac App for control of any PJLink enabled video projector or display over network.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay#readme) Utility for advanced troubleshooting and configuring of native displays on macOS.
-- [Hide Privacy indicators](https://support.apple.com/en-us/118449)The official way to turn off the orange microphone light on macOS 14.4 or later. For earlier macOS versions, use [Recording Indicator Utility](https://github.com/cormiertyshawn895/RecordingIndicatorUtility).
-- [Pierre-Henry Pauly’s Audiovisual Database](https://www.pierrehenrypauly.com/database/#patterns)Incredible repository of high quality test pattern files for video engineers, plus additional notes like manuals and logins. By [Pierre-Henry Pauly](https://www.pierrehenrypauly.com/)
-- [NDISyphon](https://docs.vidvox.net/freebies_ndi_syphon.html)Free utility to send Syphon video streams (with alpha!) over a network using the NDI protocol from Newtek.
-- [NDIstuff](https://www.ndistuff.uk/)All sorts of nifty tools for NDI playback and troubleshooting. A [video router](https://www.ndistuff.uk/#NDIRouter), [logo player](https://www.ndistuff.uk/#NDIBugPlayer), [false-color monitor](https://www.ndistuff.uk/#NDIDualFCMonitor), a [simple mixer](https://www.ndistuff.uk/#NDICutter), and more! Windows only.
-- [Maskerator](https://www.theatre.support/maskerator)Tool for making mask images. Designed for QLab but works on all servers via NDI + Syphon.
-- [Cobalt.tools](https://cobalt.tools/)Safe, non-scammy web app for downloading and converting Youtube videos.
-- [Testpattern Generator](https://vioso.com/testpattern-generator/)Browser-based utility for generating highly customizable projector calibration images. By [Vioso](https://vioso.com/)
-- [Handbrake](https://handbrake.fr/)Convert video from nearly any format to a selection of modern, widely supported codecs.
-- [Tally Arbiter](http://tallyarbiter.com/)Send Tally data just about anywhere- to USB peripherals, phones, Arduinos, or even to the cloud.
+- [Hide Privacy indicators](https://support.apple.com/en-us/118449) The official way to turn off the orange microphone light on macOS 14.4 or later. For earlier macOS versions, use [Recording Indicator Utility](https://github.com/cormiertyshawn895/RecordingIndicatorUtility).
+- [Pierre-Henry Pauly’s Audiovisual Database](https://www.pierrehenrypauly.com/database/#patterns) Incredible repository of high quality test pattern files for video engineers, plus additional notes like manuals and logins. By [Pierre-Henry Pauly](https://www.pierrehenrypauly.com/)
+- [NDISyphon](https://docs.vidvox.net/freebies_ndi_syphon.html) Free utility to send Syphon video streams (with alpha!) over a network using the NDI protocol from Newtek.
+- [NDIstuff](https://www.ndistuff.uk/) All sorts of nifty tools for NDI playback and troubleshooting. A [video router](https://www.ndistuff.uk/#NDIRouter), [logo player](https://www.ndistuff.uk/#NDIBugPlayer), [false-color monitor](https://www.ndistuff.uk/#NDIDualFCMonitor), a [simple mixer](https://www.ndistuff.uk/#NDICutter), and more! Windows only.
+- [Maskerator](https://www.theatre.support/maskerator) Tool for making mask images. Designed for QLab but works on all servers via NDI + Syphon.
+- [Cobalt.tools](https://cobalt.tools/) Safe, non-scammy web app for downloading and converting Youtube videos.
+- [Testpattern Generator](https://vioso.com/testpattern-generator/) Browser-based utility for generating highly customizable projector calibration images. By [Vioso](https://vioso.com/)
+- [Handbrake](https://handbrake.fr/) Convert video from nearly any format to a selection of modern, widely supported codecs.
+- [Tally Arbiter](http://tallyarbiter.com/) Send Tally data just about anywhere- to USB peripherals, phones, Arduinos, or even to the cloud.
 - [Dicaffeine](https://dicaffeine.com/)NDI player and NDI/RTMP streamer for Raspberry Pi OS and Ubuntu
-- [VDO Ninja](https://vdo.ninja/)Stream video from a remote device into OBS or a browser. Free, simple, browser-based setup with no user accounts or logins.
-- [ShowPlay](https://apps.apple.com/us/app/showplay/id1547023004)App to play locally-stored video and sounds from an iOS device or Mac using remote OSC triggers.
-- [Vingester](https://vingester.app/)Open Source app for capturing websites (video players, websites, games) into NDI streams. Control pixel dimensions, frame rate, audio channels, and more.
+- [VDO Ninja](https://vdo.ninja/) Stream video from a remote device into OBS or a browser. Free, simple, browser-based setup with no user accounts or logins.
+- [ShowPlay](https://apps.apple.com/us/app/showplay/id1547023004) App to play locally-stored video and sounds from an iOS device or Mac using remote OSC triggers.
+- [Vingester](https://vingester.app/) Open Source app for capturing websites (video players, websites, games) into NDI streams. Control pixel dimensions, frame rate, audio channels, and more.
 
 # Sound
 - [TheatreMix](https://theatremix.com/)Manage DCA assignments and mutes for up to 48 channels separately from console scenes, for DCA-style theater mixing. Also monitors meters for dropouts and clipping.
