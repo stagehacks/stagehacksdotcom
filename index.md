@@ -55,8 +55,8 @@
 - [ShowPlay](https://apps.apple.com/us/app/showplay/id1547023004)App to play locally-stored video and sounds from an iOS device or Mac using remote OSC triggers.
 - [Vingester](https://vingester.app/)Open Source app for capturing websites (video players, websites, games) into NDI streams. Control pixel dimensions, frame rate, audio channels, and more.
 
-  # Sound
-  - [TheatreMix](https://theatremix.com/)Manage DCA assignments and mutes for up to 48 channels separately from console scenes, for DCA-style theater mixing. Also monitors meters for dropouts and clipping.
+# Sound
+- [TheatreMix](https://theatremix.com/)Manage DCA assignments and mutes for up to 48 channels separately from console scenes, for DCA-style theater mixing. Also monitors meters for dropouts and clipping.
 - [Open Sound Meter](https://opensoundmeter.com/)Free sound measurement application for tuning audio systems in real-time. Includes advanced features like coherence and group delays. No subscription. By Pavel Smokotnin
 - [ProdCom](https://prodcom.io/)Transcribes audio inputs into a chat interface. Turn intercom chatter into text or see what you missed on a talkback channel.
 - [AES67 Stream Monitor](https://aes67.app/)Tool for monitoring AES67 (Dante, Livewire, Q-Lan, REVENNA) audio sources. Streams are found automatically or can be added manually.
