@@ -8,6 +8,27 @@
 - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en) A central hub to control OSC, MIDI, DMX, Art-Net, PJLink, and more! Map inputs to outputs and set up playback sequences.
 - [CoolTerm](https://freeware.the-meiers.org/) Simple free serial port terminal application to exchange data with hardware connected to serial ports such as microcontrollers. AppleScriptable!
 
+### MIDI
+- [MIDI Monitor](https://www.snoize.com/midimonitor/) The classic open source app for viewing MIDI signals going in and out of a mac. Updated for Apple Silicon! By [Snoize](https://www.snoize.com/)
+- [ShowMIDI](https://github.com/gbevin/ShowMIDI) Advanced MIDI monitoring dashboard. Sort messages by device or channel and generate live graphs.
+- [Protokol](https://hexler.net/protokol) A powerful and simple console for troubleshooting OSC and MIDI. Includes filtering and debugging logs. By [Hexler](https://hexler.net/)
+- [MIDI View](https://hautetechnique.com/midi/midiview/) A pretty app for monitoring MIDI. By [Haute Technique](https://hautetechnique.com/)
+- [MSCmonitor](https://audiostrom.com/midi-show-control-monitor/) Always know what cue was last fired. By [Audioström](https://audiostrom.com/)
+
+### OSC
+- [Protokol](https://hexler.net/protokol) A powerful and simple console for troubleshooting OSC and MIDI. Includes filtering and debugging logs.
+- [ZoomOSC](https://www.liminalet.com/zoomosc)Control Zoom user interface functions, such as pin, spotlight, mute/unmute, video, on/off with OSC. Or rearrange the grid! Windows only.
+- [OSCRouter](https://github.com/ETCLabs/OSCRouter) Simple UDP/TCP packet router for Mac and Windows, with optional OSC specific options. From [ETCLabs](https://github.com/etclabs) on GitHub.
+- [OSCulator](https://osculator.net/) Route MIDI and OSC between devices and wireless controllers
+- [Open Stage Control](https://openstagecontrol.ammd.net/) Design complex custom OSC interfaces + serve them to browsers on the network
+- [ShowPlay](https://apps.apple.com/us/app/showplay/id1547023004) App to play locally-stored video and sounds from an iOS device or Mac using remote OSC triggers.
+- [TouchOSC](https://hexler.net/software/touchosc) Build custom iPad interfaces for OSC and MIDI compatible apps $5
+- [atemOSC](http://www.atemosc.com/) Bridge between OSC and Blackmagic Design ATEM switchers.
+- [Powerpoint OSC](https://github.com/benkuper/PowerPoint-OSC) A Powerpoint add-in for basic control of powerpoint presentations with OSC by [Ben Kuper](http://benjamin.kuperberg.fr/)
+- [The Wizard of OSC (TWO)](https://www.thewizardofosc.com/) Tool for recording, replaying, and creative manipulation of MIDI & OSC. Inspired by live electronic musicians.
+- [LanScan](https://apps.apple.com/us/app/lanscan/id472226235?mt=12) LanScan is a simple and efficient IPv4 network scanner, with bonus features like vendor identification by MAC. Free, but **$6** to unlock a few new features.
+
+
 # Networking
 - [Wireshark](https://www.wireshark.org/) The venerable go-to for debugging and deply investigating all network traffic including OSC, Art-Net, and sACN
 - [Packet Sender](https://packetsender.com/) Packet Sender can send and receive custom network packets. It also has a built-in HTTP client for GET/POST requests, and you can even build simple macro button panels that send packets.
@@ -50,3 +71,36 @@
 - [LightFinger](https://apps.apple.com/us/app/lightfinger/id1568459015) iPad app to control moving lights as followspots using the touchscreen. By [Colin Grenfell](https://lovely.lighting/) **In-App Purchase**
 - [ArtNetView](https://artnetview.com/) Simple yet beautiful app to monitor Art-Net data on the network. By [Haute Technique](https://hautetechnique.com/)
 - [Multicaster](https://singularity-uk.com/product/multicaster/) Windows app for checking if sACN/multicast networks are well configured.
+
+# Docs
+- [A Computer Prepares](https://qlab.app/docs/v5/general/preparing-your-mac/) Fantastic guide by Figure 53](http://figure53.com/)on optimizing a Mac to run QLab projects. They make QLab, so they're kind of the experts.
+- [QLab Cookbook](https://qlabcookbook.com/) [Mic Pool's](https://micpool.com/) amazing tricks for advanced QLab programming
+- [Sound Reference Notes](http://soundreferencenotes.com/) Exhaustive notes on how to make AV happen in a theater of any size. Includes tips on rental shops, tools, venues, cable management, rigging.
+- [Basic Networking for Theater](http://figure53.com/docs/qlab/v4/how-to/networking/) Basic guide to computer networking for the theater industry by [Figure 53](http://figure53.com/)
+- [Exploring the Network](https://blog.etcconnect.com/2017/08/exploring-the-network-osc-part-i/) Bitmoji-filled deep dive into OSC standard design and implementation from ETC. [Part 1](https://blog.etcconnect.com/2017/08/exploring-the-network-osc-part-i/) & [Part 2](https://blog.etcconnect.com/2019/02/exploring-the-network-osc-part-ii/)
+
+# QLab Tools
+- [panLab](https://innovateaudio.co.uk/)panLab is a multi-point audio panner, designed to work exclusively with QLab. By [Daniel Higgott](http://www.danielhiggott.com/).
+- [Cue View](https://github.com/stagehacks/Cue-View)Open source tool for remote monitoring of ETC Eos Family, QLab, Watchout, PJLink, X32/XAir, Art-Net, and sACN.
+- [Cue Wizard](http://www.garethfry.co.uk/cue-wizard)Label and mark QLab cues in bulk, perfect for cleaning up messy workspaces. By [Gareth Fry](http://www.garethfry.co.uk/)
+- [qlab-scripts](https://github.com/samschloegel/qlab-scripts)A ton of useful scripts to make QLab (and other equipment) perform special tricks. By [Sam Schloegel](https://schloegel.nyc/)
+- [macroLab](http://www.danielhiggott.com/macroLab/)Macro assistant for QLab, triggered with GUI or a [Elgato Streamdeck](https://www.elgato.com/en/gaming/stream-deck). By [Daniel Higgott](http://www.danielhiggott.com/). **$3**
+- [QPJLink](https://github.com/Hantoo/QPJLink)PJLink “plugin” for QLab by [Joel L B](https://joellutherbraun.com/).
+- [QSpotify](https://github.com/sparks-alec/QSpotify)Spotify “plugin” for QLab by [Alec Sparks](https://www.alecsparks.com/)
+
+# IRL
+- [DeckRack](https://deckrack.net/) Professional metal mounting hardware for Stream Decks. Up your [Companion](https://bitfocus.io/companion) game.
+- [Triangle Mount](https://www.showmachine.net/triangle-mounts/) Slick bracket for mounting shallow rack units (button panels, digital comm panels, monitors) at a comfortable angle on a desktop.
+- [MakerPipe](http://makerpipe.com/) Really slick system of connectors for rapid prototyping and framing using cheap EMT conduit.
+- [SendCutSend](https://sendcutsend.com/) High quality and affordable CNC routing and laser cutting of a variety of materials. Friendly online ordering system includes bending, tapping, and powder coating services.
+- [MotionGen](https://motiongen.io/) Online tool for prototyping complex 2D motion mechanisms using linkages, actuators, and motors.
+- [IKEA Racks](https://wiki.eth0.nl/index.php/List_of_IkeaRacks) IKEA furniture that happens to also be a different and weird way to mount 19" rack equipment. Also, [IKEA BROR](https://www.ikea.com/us/en/p/bror-work-bench-black-pine-plywood-30333286/) fits 19” equipment.
+- [Mosquito Curtains](https://www.mosquitocurtains.com/theater-scrims/) An affordable and durable alternative to theatrical scrims. Takes projection very well, paintable and washable.
+- [ThisToThat](http://www.thistothat.com/) Find out what adhesive is best to attach anything to anything.
+- [Glossary of Pixel Protocols](https://www.advateklighting.com/pixel-protocols) List of addressable LED protocols, including details like color resolution and max framerate.
+- [Penn Elcom MSB](https://www.penn-elcom.com/default.asp?MC=05010101&LG=EN&title=msb) Clever system of modular mounting plates and enclosures to build custom black boxes and rack mount components.
+- [The Big LED Google Sheet](https://docs.google.com/spreadsheets/d/10pHG7_VIVltyqJK1Y0T5g3Iq6YJV2MnhMp3UcAVB-GA/htmlview) Massive Google Sheet of crowdsourced resources for using LED pixel tape. DIY and Pro options for sourcing tape, drivers, software, and mounts.
+- [MakersLED](http://www.makersled.com/) Custom aluminum extrusion that's perfect for building custom linear LED fixtures.
+- [r.Cup](https://rcup.com/) Reusable plastic cup vendor for live events, to reduce single-use plastics. Here’s some [additional literature](https://static1.squarespace.com/static/5f218f677f1fdb38f06cebcb/t/610aaa9a1f89ff0d02ef7d7d/1628089003873/Cup+LCA+Report_Final.pdf).
+- [Luxeon Star LEDs](https://www.luxeonstar.com/) Cheap, customizable PCBs with the same LEDs that lighting manufacturers use. Integrate pro-grade color mixing into your own circuits.
+- [Snap-On Rack Panels](https://snaponrackpanels.com/) Lightweight fabric “blanking panels” for tidying up racks and improving ventilation.
