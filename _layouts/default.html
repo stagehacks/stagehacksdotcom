@@ -7,10 +7,61 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet">
     
-    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/custom-styles.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <style>
+      body{
+        margin: 0px;
+        font-family: "Verdana";
+      }
+      
+      h1, h2, h3{
+        float: left;
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      h1{
+        margin-top: 7px;
+        width: 300px;
+        font-size: 40px; 
+      }
+      h2{
+        margin-top: 12px;
+        font-size: 1.3em;
+      }
+      a{
+        color: #5bc0eb;
+      }
+      a:visited{
+        color: #5bc0eb;
+      }
+      a:active, a:hover{
+        color: #92d5f2;
+      }
+
+      .inner{
+        max-width: 840px;
+        padding: 20px;
+        margin: 0px auto;
+        clear: both;
+      }
+
+      #header_wrap{
+        background: #FDE74C;
+        height: 85px;
+        overflow: hidden;
+      }
+      #footer_wrap{
+        margin-top: 50px;
+        padding: 50px 0px;
+        background: black;
+        color: #FDE74C;
+      }
+    </style>
+  
   </head>
 
   <body>
@@ -19,8 +70,8 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
 
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <h1 id="project_title">Stage Hacks</h1><!--{{ site.title | default: site.github.repository_name }}--></h1>
+          <h2 id="project_tagline">Tools for making live events work better</h2><!--{{ site.description | default: site.github.project_tagline }}</h2>-->
         </header>
     </div>
 
