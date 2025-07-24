@@ -73,7 +73,7 @@
 - [Multicaster](https://singularity-uk.com/product/multicaster/) Windows app for checking if sACN/multicast networks are well configured.
 
 # Docs
-- [A Computer Prepares](https://qlab.app/docs/v5/general/preparing-your-mac/) Fantastic guide by Figure 53](http://figure53.com/)on optimizing a Mac to run QLab projects. They make QLab, so they're kind of the experts.
+- [A Computer Prepares](https://qlab.app/docs/v5/general/preparing-your-mac/) Fantastic guide by [Figure 53](http://figure53.com/)on optimizing a Mac to run QLab projects. They make QLab, so they're kind of the experts.
 - [QLab Cookbook](https://qlabcookbook.com/) [Mic Pool's](https://micpool.com/) amazing tricks for advanced QLab programming
 - [Sound Reference Notes](http://soundreferencenotes.com/) Exhaustive notes on how to make AV happen in a theater of any size. Includes tips on rental shops, tools, venues, cable management, rigging.
 - [Basic Networking for Theater](http://figure53.com/docs/qlab/v4/how-to/networking/) Basic guide to computer networking for the theater industry by [Figure 53](http://figure53.com/)
