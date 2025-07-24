@@ -88,6 +88,11 @@
 - [QPJLink](https://github.com/Hantoo/QPJLink) PJLink “plugin” for QLab by [Joel L B](https://joellutherbraun.com/).
 - [QSpotify](https://github.com/sparks-alec/QSpotify) Spotify “plugin” for QLab by [Alec Sparks](https://www.alecsparks.com/)
 
+# Dev Tools
+- [osc-min](https://www.npmjs.com/package/osc-min) The best (imo) OSC package for Node.js. Simple, lightweight, and up to date with OSC 1.1.
+- [OSCKit](https://github.com/sammysmallman/OSCKit) Swift port of F53OSC, a library for sending, receiving, and parsing OSC messages
+- [sendosc](https://github.com/yoggy/sendosc) A simple command line tool for sending OSC packets.
+
 # IRL
 - [DeckRack](https://deckrack.net/) Professional metal mounting hardware for Stream Decks. Up your [Companion](https://bitfocus.io/companion) game.
 - [Triangle Mount](https://www.showmachine.net/triangle-mounts/) Slick bracket for mounting shallow rack units (button panels, digital comm panels, monitors) at a comfortable angle on a desktop.
