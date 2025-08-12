@@ -85,9 +85,8 @@
 - [Cue Wizard](http://www.garethfry.co.uk/cue-wizard) Label and mark QLab cues in bulk, perfect for cleaning up messy workspaces. By [Gareth Fry](http://www.garethfry.co.uk/)
 - [qlab-scripts](https://github.com/samschloegel/qlab-scripts) A ton of useful scripts to make QLab (and other equipment) perform special tricks. By [Sam Schloegel](https://schloegel.nyc/)
 - [macroLab](http://www.danielhiggott.com/macroLab/) Macro assistant for QLab, triggered with GUI or a [Elgato Streamdeck](https://www.elgato.com/en/gaming/stream-deck). By [Daniel Higgott](http://www.danielhiggott.com/). **$3**
-- [QPJLink](https://github.com/Hantoo/QPJLink) PJLink “plugin” for QLab by [Joel L B](https://joellutherbraun.com/).
-- [QSpotify](https://github.com/sparks-alec/QSpotify) Spotify “plugin” for QLab by [Alec Sparks](https://www.alecsparks.com/)
-
+- [qlabspotify](https://github.com/duk242/qlabspotify) Spotify “plugin” for QLab
+  
 # Dev Tools
 - [osc-min](https://www.npmjs.com/package/osc-min) The best (imo) OSC package for Node.js. Simple, lightweight, and up to date with OSC 1.1.
 - [OSCKit](https://github.com/sammysmallman/OSCKit) Swift port of F53OSC, a library for sending, receiving, and parsing OSC messages
