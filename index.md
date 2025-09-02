@@ -63,6 +63,7 @@
 - [Patrick-Gilles Maillot’s X32 Tools](https://sites.google.com/site/patrickmaillot/x32) Tons of research and hacking on the X32 console, including the incredible [Unofficial X32/M32 OSC Remote Protocol](https://drive.google.com/file/d/1Snbwx3m6us6L1qeP1_pD6s8hbJpIpD0a/view?usp=sharing) document and many single-purpose utilities.
 - [OSC\_VoIP](https://github.com/oliverh57/OSC_VoIP) Trigger calls and hangups on a VoIP phone via OSC.
 - [Remotely Possible](https://remotely-possible.ca/) Control a Yamaha CL or QL console from another CL or QL, even over the Internet. Monthly or Annual subscriptions.
+- [spatial audio tools catalog](https://spaes.org/spatial-audio-tools-catalog) Directory of tools for working with Spatial Audio, by the lab for spatial aesthetics in sound in Berlin
 
 # Lights
 - [Q Light Controller+](https://www.qlcplus.org/) The venerable swiss army knife of lighting control apps.
