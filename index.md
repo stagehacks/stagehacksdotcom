@@ -64,6 +64,7 @@
 - [OSC\_VoIP](https://github.com/oliverh57/OSC_VoIP) Trigger calls and hangups on a VoIP phone via OSC.
 - [Remotely Possible](https://remotely-possible.ca/) Control a Yamaha CL or QL console from another CL or QL, even over the Internet. Monthly or Annual subscriptions.
 - [spatial audio tools catalog](https://spaes.org/spatial-audio-tools-catalog) Directory of tools for working with Spatial Audio, by the lab for spatial aesthetics in sound in Berlin
+- [MarkerMatic](https://markermatic.com) A tool to automate cueing and marker placement between consoles and DAWs, primarily used for multitrack recordings. Supports Yamaha, DiGiCo, Studer Vista, and X32/X Air.
 
 # Lights
 - [Q Light Controller+](https://www.qlcplus.org/) The venerable swiss army knife of lighting control apps.
